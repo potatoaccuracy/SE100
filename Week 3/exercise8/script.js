@@ -14,7 +14,8 @@ const AAPLPrevBar = {
 
 // Write your code below
 
-console.log((AAPLPrevBar.open + AAPLPrevBar.close) / 2);
+console.log((AAPLPrevBar.open 
+    + AAPLPrevBar.close) / 2);
 
 console.log((AAPLCurrentBar.open 
     + AAPLCurrentBar.close 
