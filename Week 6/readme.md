@@ -1,0 +1,1 @@
+Missed class due to OT at work rip
